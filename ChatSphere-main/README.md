@@ -233,6 +233,6 @@ contributions are welcome! To contribute to ChatSphere, follow these steps:
 
 ## Contributors 🤝
 
-@ArafathQureshi
+@jithendrajasti&team
 
 > Happy chatting with ChatSphere! If you have any questions or need further assistance, feel free to reach out.
