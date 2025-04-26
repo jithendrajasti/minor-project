@@ -3,23 +3,23 @@ const chats = [
     isGroupChat: true,
     users: [
       {
-        name: "Arafath Qureshi",
-        email: "arafath@example.com",
+        name: "Jithendra Jasti",
+        email: "jithendra@example.com",
       },
       {
-        name: "Darshan Jain",
+        name: "Chaitanya Kumar",
         email: "darshan@example.com",
       },
       {
-        name: "Damodar Naik",
-        email: "damodar@example.com",
+        name: "Umesh Yadav",
+        email: "umesh@example.com",
       },
     ],
     _id: "617a077e18c25468bc7c4dd4",
     chatName: "Tea Lovers",
     groupAdmin: {
-      name: "Arafath Qureshi",
-      email: "arafath@example.com",
+      name: "Jithendra Jasti",
+      email: "jithendra@example.com",
     },
   },
   {
@@ -41,27 +41,27 @@ const chats = [
     isGroupChat: false,
     users: [
       {
-        name: "Yadagiri",
-        email: "yadagiri@example.com",
+        name: "Jashwanth Rao",
+        email: "jashwanth@example.com",
       },
       {
-        name: "Arafath Qureshi",
-        email: "arafath@example.com",
+        name: "Jithendra Jasti",
+        email: "jithendra@example.com",
       },
     ],
     _id: "617a077e18c2d468bc7c4dd4",
-    chatName: "Yadagiri & Arafath",
+    chatName: "Jashwanth & Jithendra",
   },
   {
     isGroupChat: true,
     users: [
       {
-        name: "Darshan Jain",
+        name: "Chaitanya Kumar",
         email: "darshan@example.com",
       },
       {
-        name: "Damodar Naik",
-        email: "damodar@example.com",
+        name: "Umesh Yadav",
+        email: "umesh@example.com",
       },
       {
         name: "Ambati Teja",
@@ -71,7 +71,7 @@ const chats = [
     _id: "617a518c4081150716472c78",
     chatName: "Cooking Club",
     groupAdmin: {
-      name: "Darshan Jain",
+      name: "Chaitanya Kumar",
       email: "darshan@example.com",
     },
   },
@@ -79,38 +79,38 @@ const chats = [
     isGroupChat: false,
     users: [
       {
-        name: "Damodar Naik",
-        email: "damodar@example.com",
+        name: "Umesh Yadav",
+        email: "umesh@example.com",
       },
       {
-        name: "Yadagiri",
-        email: "yadagiri@example.com",
+        name: "Jashwanth Rao",
+        email: "jashwanth@example.com",
       },
     ],
     _id: "617a077e18c25468bc7cfdd4",
-    chatName: "Damodar & Yadagiri",
+    chatName: "Umesh & Jashwanth",
   },
   {
     isGroupChat: true,
     users: [
       {
-        name: "Arafath Qureshi",
-        email: "arafath@example.com",
+        name: "Jithendra Jasti",
+        email: "jithendra@example.com",
       },
       {
-        name: "Darshan Jain",
+        name: "Chaitanya Kumar",
         email: "darshan@example.com",
       },
       {
-        name: "Yadagiri",
-        email: "yadagiri@example.com",
+        name: "Jashwanth Rao",
+        email: "jashwanth@example.com",
       },
     ],
     _id: "617a518c4081150016472c78",
     chatName: "Fitness Buddies",
     groupAdmin: {
-      name: "Arafath Qureshi",
-      email: "arafath@example.com",
+      name: "Jithendra Jasti",
+      email: "jithendra@example.com",
     },
   },
 ];
